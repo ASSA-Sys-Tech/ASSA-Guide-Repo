@@ -4,3 +4,4 @@ Setting out the rules for making changes and pull requests as well as how review
 
 @Garrit first commit
 @Wynand second test
+@Wynand 3rd change
